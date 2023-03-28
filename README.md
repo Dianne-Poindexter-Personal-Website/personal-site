@@ -1,1 +1,1 @@
-# personal-site is used to add the projects that I work in in the Fullstack Academy course to show off my growth and understanding, using HTML, CSS,  Javascript
+# personal-site 
